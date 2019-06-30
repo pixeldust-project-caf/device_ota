@@ -1,9 +1,9 @@
 {
 "error":false,
-"filename":"PixelDustROM-pie-caf-marlin-20190630-2003.zip",
-"filehash":"3427777e35a8d328efd9525b99c6e446",
-"size":953147656,
-"datetime":1561917801,
+"filename":"PixelDustROM-pie-caf-marlin-20190630-2307.zip",
+"filehash":"f20501db5d56d556af7801f22e6deebe",
+"size":953147544,
+"datetime":1561928829,
 "version":"pie-caf",
 "maintainer":"spezi77",
 "maintainer_url":"https:\/\/forum.xda-developers.com\/member.php?u=5091819",
@@ -11,5 +11,5 @@
 "forum_url":"https:\/\/forum.xda-developers.com\/pixel-xl\/development\/rom-pixeldust-marlin-t3581750",
 "website_url":"https:\/\/sourceforge.net\/projects\/pixeldustproject",
 "news_url":"https:\/\/t.me\/pixeldustproject",
-"url":"https:\/\/sourceforge.net\/projects\/pixeldustproject\/files\/ota\/marlin\/PixelDustROM-pie-caf-marlin-20190630-2003.zip/download"
+"url":"https:\/\/sourceforge.net\/projects\/pixeldustproject\/files\/ota\/marlin\/files\/test\/PixelDustROM-pie-caf-marlin-20190630-2307.zip/download"
 }
